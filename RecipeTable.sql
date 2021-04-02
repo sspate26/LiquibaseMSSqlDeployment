@@ -8,6 +8,6 @@ CREATE TABLE recipes (
 INSERT INTO recipes 
     (recipe_id, recipe_name) 
 VALUES 
-    (1,"Tacos"),
-    (2,"Tomato Soup"),
-    (3,"Grilled Cheese");
+    (1,'Tacos'),
+    (2,'Tomato Soup'),
+    (3,'Grilled Cheese');
